@@ -1,0 +1,1 @@
+Sample project showcasing databinding oddities in a Uwp project.
